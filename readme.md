@@ -1,5 +1,6 @@
 # Pizza Delivery App
 An app to provide API service for ordering pizzas online
+
 ** Completed as part of the Assignment#2 from NodeJS masterclass **
 ---
 Following API services are available
