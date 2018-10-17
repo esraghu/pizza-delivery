@@ -1,0 +1,10 @@
+// ignore all user data
+.data/*
+
+// no keys to be shared and secrets to be shared
+https/*
+.env
+
+// temporary file
+temp
+
